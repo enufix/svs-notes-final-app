@@ -1,0 +1,33 @@
+.create-tag{
+    min-height: 250px;
+    background: linear-gradient(#fdf4bb, #e8dc88);
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 650px;
+    height: 200px;
+}
+.create-tag-name{
+    width: 300px;
+    margin-top: 10px;
+    float:left;
+    margin-left: 2%;
+}
+
+.create-tag .create-tag-button{
+    width:50px;
+    height:21px;
+    margin-top:10px;
+    float:left;
+}
+
+.create-tag .delete-tag-button{
+    margin-left: 150px;
+
+}
+.create-tag .created-tags{
+    width: 300px;
+    margin-top: 10px;
+    float:left;
+    margin-left: 2%;
+}
+

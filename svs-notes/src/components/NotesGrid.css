@@ -1,0 +1,54 @@
+.note {
+    position: relative;
+    width: 300px;
+    min-height: 250px;
+    background: linear-gradient(#fdf4bb, #e8dc88);
+    display: inline-table;
+    margin: 30px;
+
+}
+
+
+.note .note-header {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ece09f;
+}
+
+.note .note-content {
+    padding-top:60px;
+    position: center;
+}
+
+.note .note-footer {
+    position: absolute;
+    bottom: 0;
+    padding: 5px;
+}
+
+.delete-note-button{
+    float:right;
+}
+
+.edit-note-button{
+    cursor: pointer;
+    right: 2%;
+    bottom: 4%;
+
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}

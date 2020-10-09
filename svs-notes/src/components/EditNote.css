@@ -1,0 +1,31 @@
+.edit-note{
+    min-height: 250px;
+    background: linear-gradient(#fdf4bb, #e8dc88);
+    width: 600px;
+    margin: 0 auto;
+    height: 423px;
+}
+
+.edit-note-title{
+    width: 500px;
+    position: center;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.edit-note-content{
+    width: 500px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.edit-note-save-button{
+    margin-top:60px;
+    margin-right:440px;
+    width: 60px;
+}
+
+

@@ -1,0 +1,24 @@
+.notes-header{
+    display: flex;
+    justify-content: center;
+    background-color: #1a6c4b
+}
+.header-logo{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.manage-tags-button {
+    line-height: 15px;
+    height: 28px;
+    width:130px;
+    padding: 4px 15px;
+    font-size: 14px;
+    border-radius: 2px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    position: absolute;
+    margin-top:2px;
+    right: 5px;
+}
